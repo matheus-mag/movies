@@ -1,0 +1,35 @@
+header {
+    background-color:  var(--color-primary);
+}
+
+.movie-nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+}
+
+.movie-nav-content a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.movie-nav-content h1 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.movie-nav-info {
+    display: flex;
+    align-items: center;
+}
+
+.movie-nav-content img {
+    height: 2rem;
+    width: 2rem;
+}
+
+.movie-contact-link {
+    margin: 0 0 0 1rem;
+}

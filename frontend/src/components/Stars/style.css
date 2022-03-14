@@ -1,0 +1,11 @@
+img {
+    height: 3rem;
+    width: 3rem;
+}
+
+.movie-stars-container {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+
+}
